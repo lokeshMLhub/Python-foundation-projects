@@ -1,17 +1,22 @@
 # Python Learning Journey 
 
-This repository contains my daily Python practice programs.
+Hi, I am Lokesh.
+I am learning Python from beginner to advanced for Data Science and AI
+
 
 ## Topics Covered 
-- Variables and Data Types 
-- Lopps 
+- Python Basics
+- Control Statements
 - Functions
-- Lists and Dictionaries
+- Data Structures
+- OOP
+- Projects
 
-## How to run 
-1. Install Python 
-2. Run the file using:
-   python filename.py
+## How to run
+```bash
+python filename.py
+
+   
 
 ## Author 
 Lokesh - CSE Data Science Student
